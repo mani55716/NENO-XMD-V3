@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~HCRXxALL#BBG2kftsix2ORYIHHIqhiUG9-ehHZxwQFRy8dILd998",
+    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~jWh0TagJ#34S6tE4SKewVTe2-MQfkhjKtVBtx7oqVmoc9M8xdZLY",
     // add your Session Id make sure it starts with NENO~
 
     PREFIX: process.env.PREFIX || ".",
@@ -78,10 +78,10 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779804861539",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779807044421",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀɴɪ x ʟɪᴠᴇ ⚠︎࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀɴɪ x ʟɪᴠᴇ ⚠︎",
     // add bot owner name
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀɴɪ x ʟɪᴠᴇ *",
@@ -117,7 +117,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "263780166288",
+    DEV: process.env.DEV || "9779807044421",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
