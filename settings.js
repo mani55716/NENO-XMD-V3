@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~jWh0TagJ#34S6tE4SKewVTe2-MQfkhjKtVBtx7oqVmoc9M8xdZLY",
+    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~yKJAET6A#H9ds5U_7kkpLRD1Fq7yLUBLggJQRDk10S3djTsDdia0",
     // add your Session Id make sure it starts with NENO~
 
     PREFIX: process.env.PREFIX || ".",
@@ -69,7 +69,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ɴᴇɴᴏ ᴠ3",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
@@ -78,7 +78,7 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779807044421",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "989910463285",
     // add your bot owner number
 
     OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀɴɪ x ʟɪᴠᴇ ⚠︎",
@@ -117,7 +117,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "9779807044421",
+    DEV: process.env.DEV || "989910463285",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
